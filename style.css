@@ -583,6 +583,7 @@ header {
         height: 90%;
         width: 90%;
         flex-direction: column;
+        color: white;
     }
     .hero-badge {
         height: 20%;
@@ -632,3 +633,4 @@ header {
         width: 100%;
     }
 }
+
