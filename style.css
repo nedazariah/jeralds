@@ -583,7 +583,6 @@ header {
         height: 90%;
         width: 90%;
         flex-direction: column;
-        color: white;
     }
     .hero-badge {
         height: 20%;
@@ -602,6 +601,7 @@ header {
         display: flex;
         align-items: center;
         justify-content: center;
+        font-weight: normal;
     }
 
     .branch-details {
@@ -633,4 +633,5 @@ header {
         width: 100%;
     }
 }
+
 
